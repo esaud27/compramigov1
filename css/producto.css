@@ -1,0 +1,28 @@
+.precio-content{
+	background:none-repit scroll 0 0;
+	opacity: 1; 
+	top: 5%; 
+	/*left: 70%; */
+	right: 10%;
+	position: absolute;
+
+}
+
+.descripcion {
+	color: #c60!important;
+}
+.caracteristicas {
+	color: #c60!important;
+	/*
+	color: #1b809e;
+	color: #337ab7;
+	24262e
+	*/
+}
+
+.contenido {
+	color: #000000;
+}
+.precio-alto {
+	height: 10%;
+}
